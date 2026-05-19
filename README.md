@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tan Đỗ Xuân Tân</h1>
+<h1 align="center">Hi 👋, I'm Đỗ Xuân Tân</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=600&lines=Front-End+Developer;Web+Developer;JavaScript+%2F+C%2B%2B+Programmer;SQL+%2F+Database+Developer" />
@@ -42,14 +42,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- General Stats - Change doxuantan to your real GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doxuantan&show_icons=true&theme=tokyonight"/>
   
-  <!-- Top Languages Stats - Change doxuantan to your real GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxuantan&layout=compact&theme=tokyonight"/>
-</p>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=doxuantan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+       
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxuantann&layout=compact&langs_count=8&theme=tokyonight"/>
 
----
+</p>
 
 ## 🔥 Streak Stats
 
