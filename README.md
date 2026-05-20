@@ -1,74 +1,83 @@
-<h1 align="center">Hi 👋, I'm Đỗ Xuân Tân</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Xuân%20Tân%20Đỗ&fontSize=70&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=600&lines=Front-End+Developer;Web+Developer;JavaScript+%2F+C%2B%2B+Programmer;SQL+%2F+Database+Developer" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Backend+Developer;Database+%26+System+Architecture;Learning+Every+Day;Turning+Ideas+into+Reality" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  🎓 <strong>IT Student at PTIT</strong> (Distance Learning) | 💻 <strong>Software Engineer Trainee</strong> at Rikkei Education
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+# 👨‍💻 About Me
 
-## 🚀 Tech Stack
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <ul>
+          <li>💼 Hiện tại đang học tập và phát triển theo hướng <b>Backend Developer</b>.</li>
+          <li>🎓 Quan tâm nhiều đến <b>Database Design, System Architecture</b> và <b>Backend Development</b>.</li>
+          <li>🌱 Đang học và nâng cao kỹ năng về <b>SQL, Laravel, NodeJS</b> và <b>Microservices</b>.</li>
+          <li>⚡ Yêu thích xây dựng hệ thống tối ưu, xử lý dữ liệu hiệu quả và bảo mật.</li>
+          <li>🎯 Mục tiêu trở thành <b>Software Engineer chuyên sâu Backend</b>.</li>
+          <li>🎮 Sở thích: Coding, chơi game và tìm hiểu công nghệ mới.</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding GIF" width="250"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <!-- Languages & Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp" /><br><br>
-  <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+# 📬 Connect With Me
 
-## 🛠️ About Me
+<div align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-- 📚 Currently pursuing a Bachelor's degree in **Information Technology** at **Posts and Telecommunications Institute of Technology (PTIT)**.
-- 💻 Sharpening my software development and IT skills at **Rikkei Education**.
-- 🎯 Passionate about building responsive, user-friendly interfaces using **HTML, CSS, Bootstrap, and JavaScript**.
-- 🧠 Strong logical thinking foundation developed through programming with **C/C++** and mastering advanced **JS Array Methods** (`map`, `filter`, `reduce`).
-- 🗄️ Experienced in designing structured database schemas and writing queries with **SQL (MySQL)** using constraints and strict integrity rules.
-- 🤖 Adept at using AI-powered development productivity tools like **Cursor** and **ChatGPT** to optimize workflow and refactor code.
+  <a href="https://github.com/doxuantan">
+    <img src="https://img.shields.io/badge/GitHub-doxuantan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
----
+  <a href="https://www.facebook.com/your-facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 
-## 📂 Highlighted Projects
+  <br/>
+  <br/>
 
-*   **Personal Finance Management Web App:** A fully responsive web interface built with HTML, CSS, Bootstrap, and JavaScript to track income, daily expenses, and budgets with dynamic array manipulation logic.
-*   **Library Management Database System:** Designed and built a structured database schema (`BOOK`, `BORROW_BOOKS`, etc.) using SQL DDL/DML commands with optimized Primary Key and Foreign Key constraints.
+  <img src="https://img.shields.io/badge/Phone_/_Zalo-Your_Number-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo/Phone" />
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack & Skills
 
-<p align="center">
-  
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=doxuantan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-       
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxuantan&layout=compact&langs_count=8&theme=tokyonight"/>
+## 🖥 Backend & Frameworks
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-</p>
+## 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🔥 Streak Stats
+## 🛠 Tools & Knowledge
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Database](https://img.shields.io/badge/Database-003B57?style=for-the-badge)
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge)
 
-<p align="center">
-  <!-- GitHub Streak - Change doxuantan to your real GitHub username -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doxuantan&theme=tokyonight"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <!-- Activity Graph - Change doxuantan to your real GitHub username -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doxuantan&theme=tokyo-night"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/3115372379bf9bc5949bc52441999b1836df2020/animated-night-sky.svg" width="100%"/>
-</p>
+<div align="center">
+  <i>"Code • Learn • Improve"</i>
+</div>
